@@ -11,3 +11,5 @@ BGM取自 Calm
 
 下载：
 https://github.com/miaomiaosoft/Keyda/releases
+
+![image](https://raw.githubusercontent.com/miaomiaosoft/Keyda/master/images/001.jpg)
