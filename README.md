@@ -9,7 +9,10 @@ BGM取自 Calm
 2. 单文件多达100MB是因为BGM都内置在程序中，但运行内存平均只有2MB！
 3. 离线软件，不需要联网，没有安全问题！
 
-下载：
+完整版下载[100MB]：
 https://github.com/miaomiaosoft/Keyda/releases
+
+迷你版下载[1.9MB]：
+https://github.com/miaomiaosoft/Keyda/releases/tag/1.3.1
 
 ![image](https://raw.githubusercontent.com/miaomiaosoft/Keyda/master/images/001.jpg)
