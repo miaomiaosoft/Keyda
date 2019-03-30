@@ -11,6 +11,7 @@
 3. 可纯离线软件，不需要联网，没有安全问题！[默认不离线，启动时会检查新版，如不需要可编辑程序目录下的CONFIG配置文件，改为：离线版本=1]
 
 新版下载[3.0以上版本]：
+
 https://github.com/miaomiaosoft/Keyda/releases
 
 ![image](https://raw.githubusercontent.com/miaomiaosoft/Keyda/master/images/002.png)
