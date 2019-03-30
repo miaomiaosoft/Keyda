@@ -17,7 +17,9 @@ https://github.com/miaomiaosoft/Keyda/releases
 
 
 
-
+-
+-
+-
 旧版介绍： 
 
 1. 功能与Tickeys基本类似，但解决了Tickeys在按住状态下连发两声的问题，并增加了十种背景白噪音[完整版]，让打字/写作更专注！
