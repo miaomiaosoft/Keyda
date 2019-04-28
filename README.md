@@ -26,7 +26,7 @@
 ------------
 
 ### 界面截图：
-![image](https://raw.githubusercontent.com/miaomiaosoft/Keyda/master/images/002.png)
+![image](https://raw.githubusercontent.com/miaomiaosoft/Keyda/master/images/AeroSnap%E6%88%AA%E5%9B%BE1.png)
 
 ------------
 
